@@ -43,8 +43,7 @@ Certifique-se de ter o Python e o PostgreSQL instalados e configurados.
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/seu-usuario/projeto-esus-pipeline.git](https://github.com/seu-usuario/projeto-esus-pipeline.git)
-cd projeto-esus-pipeline
+git clone https://github.com/jjvaldezzzzz/Desafio-Dashboard-de-dados-DataSUS.git
 ```
 
 ### 2. Configurar Variáveis de Ambiente
