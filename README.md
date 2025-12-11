@@ -1,4 +1,4 @@
-# 🏥 Pipeline de Dados e Analytics: e-SUS Notifica (Síndrome Gripal)
+# 🏥 Desafio de Dashboard de dados de DataSUS
 
 Este projeto consiste em uma solução completa de **Engenharia e Análise de Dados** para monitoramento de casos de Síndrome Gripal (incluindo COVID-19). O pipeline abrange desde a ingestão de dados brutos, normalização em banco relacional (PostgreSQL), até a criação de mecanismos de auditoria, automação de indicadores e views analíticas para Dashboards.
 
